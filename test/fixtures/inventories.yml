@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner: MyString
+  name_item: MyString
+  quantity: 1.5
+  type: 
+  points: 1
+  survivor_id: 1
+
+two:
+  owner: MyString
+  name_item: MyString
+  quantity: 1.5
+  type: 
+  points: 1
+  survivor_id: 1
