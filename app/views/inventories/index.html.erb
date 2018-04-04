@@ -1,0 +1,7 @@
+<h1>Survivors list</h1>
+
+<ul>
+  <% @survivors.each do |survivor| %>
+    <li><%= link_to survivor.name, survivor%></li>
+  <% end %>
+</ul

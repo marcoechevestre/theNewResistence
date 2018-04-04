@@ -4,5 +4,7 @@ Rails.application.routes.draw do
   #update and destroy actions, a resourceful route declares them in a single line of code.
   resources :surviviors, :inventories
 
-  
+  root to: "survivors#index"
+
+
 end
